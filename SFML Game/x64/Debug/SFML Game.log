@@ -1,0 +1,102 @@
+﻿  Main.cpp
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Utils.h(21,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Utils.h(43,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Utils.h(43,38): warning C4244:         with
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Utils.h(43,38): warning C4244:         [
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Utils.h(43,38): warning C4244:             T=float
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Utils.h(43,38): warning C4244:         ]
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Utils.h(43,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Utils.h(43,35): warning C4244:         with
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Utils.h(43,35): warning C4244:         [
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Utils.h(43,35): warning C4244:             T=float
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Utils.h(43,35): warning C4244:         ]
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Utils.h(70,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\GameObject.h(55,98): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\GameObject.h(55,98): warning C4244:         with
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\GameObject.h(55,98): warning C4244:         [
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\GameObject.h(55,98): warning C4244:             T=unsigned int
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\GameObject.h(55,98): warning C4244:         ]
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\GameObject.h(55,98): warning C4244:         and
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\GameObject.h(55,98): warning C4244:         [
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\GameObject.h(55,98): warning C4244:             T=float
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\GameObject.h(55,98): warning C4244:         ]
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\GameObject.h(55,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\GameObject.h(55,64): warning C4244:         with
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\GameObject.h(55,64): warning C4244:         [
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\GameObject.h(55,64): warning C4244:             T=unsigned int
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\GameObject.h(55,64): warning C4244:         ]
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\GameObject.h(55,64): warning C4244:         and
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\GameObject.h(55,64): warning C4244:         [
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\GameObject.h(55,64): warning C4244:             T=float
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\GameObject.h(55,64): warning C4244:         ]
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Button.h(34,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Button.h(34,56): warning C4244:         with
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Button.h(34,56): warning C4244:         [
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Button.h(34,56): warning C4244:             T=int
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Button.h(34,56): warning C4244:         ]
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Button.h(34,56): warning C4244:         and
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Button.h(34,56): warning C4244:         [
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Button.h(34,56): warning C4244:             T=float
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Button.h(34,56): warning C4244:         ]
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Button.h(34,44): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Button.h(34,44): warning C4244:         with
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Button.h(34,44): warning C4244:         [
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Button.h(34,44): warning C4244:             T=int
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Button.h(34,44): warning C4244:         ]
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Button.h(34,44): warning C4244:         and
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Button.h(34,44): warning C4244:         [
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Button.h(34,44): warning C4244:             T=float
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Button.h(34,44): warning C4244:         ]
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Button.h(57,49): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Button.h(57,49): warning C4244:         with
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Button.h(57,49): warning C4244:         [
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Button.h(57,49): warning C4244:             T=float
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Button.h(57,49): warning C4244:         ]
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Button.h(57,38): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Button.h(57,38): warning C4244:         with
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Button.h(57,38): warning C4244:         [
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Button.h(57,38): warning C4244:             T=float
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Button.h(57,38): warning C4244:         ]
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Game.h(28,103): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Game.h(28,103): warning C4244:         with
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Game.h(28,103): warning C4244:         [
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Game.h(28,103): warning C4244:             T=unsigned int
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Game.h(28,103): warning C4244:         ]
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Game.h(28,103): warning C4244:         and
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Game.h(28,103): warning C4244:         [
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Game.h(28,103): warning C4244:             T=float
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Game.h(28,103): warning C4244:         ]
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Game.h(28,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Game.h(28,65): warning C4244:         with
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Game.h(28,65): warning C4244:         [
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Game.h(28,65): warning C4244:             T=unsigned int
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Game.h(28,65): warning C4244:         ]
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Game.h(28,65): warning C4244:         and
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Game.h(28,65): warning C4244:         [
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Game.h(28,65): warning C4244:             T=float
+C:\Users\Korisnik\Desktop\DodgeGame\SFML Game\Game.h(28,65): warning C4244:         ]
+  (compiling source file 'Main.cpp')
+  
+  SFML Game.vcxproj -> C:\Users\Korisnik\Desktop\DodgeGame\x64\Debug\SFML Game.exe
